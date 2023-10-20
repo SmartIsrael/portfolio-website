@@ -258,6 +258,15 @@ textarea {
   padding: 2rem 0;
 }
 
+.grid-item a{
+  font-weight: bold;
+  color: aqua;
+}
+.grid-item img{
+  max-width: 400px;
+  max-height: 250px;
+}
+
 /* Desktop Design */
 @media screen and (min-width: 700px) {
   .container {
