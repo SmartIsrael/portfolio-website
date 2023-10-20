@@ -266,6 +266,10 @@ textarea {
   max-width: 400px;
   max-height: 250px;
 }
+.projects .see-more{
+  text-align: center;
+  color: #0cb8c2;
+}
 
 /* Desktop Design */
 @media screen and (min-width: 700px) {
